@@ -1,3 +1,5 @@
+# Webpack configured counter application
+
 ## Clone Repository or download the zip folder
 
 ### Install dependencies
