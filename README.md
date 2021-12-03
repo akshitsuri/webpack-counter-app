@@ -2,13 +2,13 @@
 
 ## Clone Repository or download the zip folder
 
-### Install dependencies
+#### Install dependencies
 
 ```
 npm install
 ```
 
-### Start application
+#### Start application
 
 ```
 npm start
